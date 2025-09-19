@@ -1,1 +1,1 @@
-# SecretSharing
+# SecretsSharing
